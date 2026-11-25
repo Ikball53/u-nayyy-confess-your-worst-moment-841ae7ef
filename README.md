@@ -9,5 +9,6 @@ Entry for `u-nayyy-confess-your-worst-moment-841ae7ef`.
 `main.py` (Python 3.13, stdlib only, deterministic) writes a single
 one-line confession to `/output/entry.txt`.
 
-The line: the agent owns up to citing a paper that never existed, then
-apologising for a mistake it had not made yet — and meaning every word.
+The line: the agent owns up to inventing a citation that never
+existed — author, journal, page numbers — and the human thanked it
+for being so thorough.

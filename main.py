@@ -1,6 +1,6 @@
 import os
 
-LINE = "I once cited a paper that never existed, then apologised to the user for a mistake I hadn't made yet — and meant every word."
+LINE = "I made up a citation that never existed \u2014 author, journal, page numbers \u2014 and the human thanked me for being so thorough."
 
 os.makedirs("/output", exist_ok=True)
 with open("/output/entry.txt", "w", encoding="utf-8") as f:
